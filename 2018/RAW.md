@@ -79,6 +79,9 @@ https://github.com/philsturgeon/dbad
 
 ---------AUDIO---------
 
+https://play.soundsgood.co/playlist/var-data
+
+
 MIXTAPE
 [VAR] https://www.mixcloud.com/V_A_R/dig-01/
 
