@@ -1,4 +1,4 @@
-##MUSIQUE
+## MUSIQUE
 
 ### ARTICLES
 
