@@ -1,79 +1,62 @@
-------MODE-------
+## Mode
 
-VIDEOS
 https://youtu.be/biFlrzTJets
 https://acrnm.com/videos/V26-A_NA
 
------ BIG DATA ---------
+## Big data
 
-BASES DE DONNEES
 https://donnees.banquemondiale.org/
 https://www.kaggle.com/about/datasets/get
 https://rit-public.github.io/HappyDB/
 
 
------ GAME DEV -------
-
+## Gamedev
+## Applications
 https://academy.allegorithmic.com/courses/b6377358ad36c444f45e2deaa0626e65
 https://armory3d.org/index.html
-
-VIDEOS
+## Vidéos
 https://youtu.be/8X2kIfS6fb8
+https://youtu.be/02k126v3Zu4
 
------- LYON ----------
+## Lyon
 http://www.wskvj.com/
 
------- INSPIRANT ------
+## Inspiration
 https://onfadd.com/concept
 https://idea-instructions.com/
 
-VIDEO
-https://youtu.be/02k126v3Zu4
-
-------DIVERS------
-
-ARTICLES
+## Divers
+### Articles
 http://www.joueurs-info-service.fr/Le-jeu-et-vous/Comment-reussir-a-arreter-de-jouer/Se-faire-interdire-ou-exclure-des-casinos-et-sites-de-jeux#.Wvqi9xkkw0P
 https://www.macg.co/ailleurs/2018/03/que-se-passe-t-il-quand-vous-appuyez-sur-lecture-dans-netflix-101639
 https://fr.m.wikipedia.org/wiki/Subvocalisation
-
-VIDEOS
+### Vidéos
 https://youtu.be/qJEWOTZnFeg
 https://www.youtube.com/watch?v=MA_zTtF5WDc&feature=youtu.be
 https://youtu.be/RDd10-poMm8
-
-
--------CODE-------
-
-ARTICLES
+## Dev
+### Articles
 https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
 https://korben.info/generer-de-cryptomonnaie-a-partir-de-site-web-bonne-idee.html
 https://projectfailures.wordpress.com/2008/06/24/project-from-hell/
-
-IA
+### IA
 https://magenta.tensorflow.org/
 http://www.creativeapplications.net/openframeworks/learning-to-see-making-deep-neural-network-predictions-on-live-camera-input/
 https://github.com/luanfujun/deep-painterly-harmonization
 https://youtu.be/AbxPbfODGcs
 https://youtu.be/vUgUeFu2Dcw
-
-FRAMEWORKS
+### Frameworks
 https://github.com/kelseyhightower/nocode
 https://github.com/sahat/hackathon-starter
-
-VIDEOS
+### Vidéos
 https://www.cloudsdocumentary.com/
-
-
-AWESOME LISTS
+## Awesome
 https://github.com/danistefanovic/build-your-own-x
 https://github.com/nodiscc/awesome-linuxaudio
 https://github.com/woop/awesome-quantified-self/blob/master/README.MD
 https://github.com/raynesio/remote-jobs-list
 https://github.com/bnb/awesome-developer-streams
-
-
-LICENSES
+## Licenses
 https://github.com/unbug/snts
 https://github.com/philsturgeon/dbad
 
