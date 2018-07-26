@@ -1,30 +1,22 @@
 ## Mode
-
 https://youtu.be/biFlrzTJets
 https://acrnm.com/videos/V26-A_NA
-
 ## Big data
-
 https://donnees.banquemondiale.org/
 https://www.kaggle.com/about/datasets/get
 https://rit-public.github.io/HappyDB/
-
-
 ## Gamedev
-## Applications
+### Applications
 https://academy.allegorithmic.com/courses/b6377358ad36c444f45e2deaa0626e65
 https://armory3d.org/index.html
-## Vidéos
+### Vidéos
 https://youtu.be/8X2kIfS6fb8
 https://youtu.be/02k126v3Zu4
-
-## Lyon
+### Lyon
 http://www.wskvj.com/
-
-## Inspiration
+### Inspiration
 https://onfadd.com/concept
 https://idea-instructions.com/
-
 ## Divers
 ### Articles
 http://www.joueurs-info-service.fr/Le-jeu-et-vous/Comment-reussir-a-arreter-de-jouer/Se-faire-interdire-ou-exclure-des-casinos-et-sites-de-jeux#.Wvqi9xkkw0P
