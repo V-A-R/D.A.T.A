@@ -95,7 +95,7 @@ SHADERS
 https://nshelton.github.io/
 
 
-COLLECT STOPPED 25/07/2018 On CONVERSATIONS ANIMEES
+## COLLECT STOPPED 25/07/2018 On CONVERSATIONS ANIMEES
 
 GENRAL 
 https://www.decentralizedweb.net/
@@ -171,5 +171,4 @@ https://www.malt.fr/
 https://youtu.be/O-1zEo7DD8w?t=3m19s
 https://www.newschoolers.com/forum/thread/825741/MASS-STICKER-LIST--EMAIL--100--COMPANIES
 
-
-COLLECT STOPPED 02/11/2018 On CONVERSATIONS ANIMEES
+## COLLECT STOPPED 02/11/2018 On CONVERSATIONS ANIMEES
