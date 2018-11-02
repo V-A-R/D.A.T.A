@@ -96,3 +96,80 @@ https://nshelton.github.io/
 
 
 COLLECT STOPPED 25/07/2018 On CONVERSATIONS ANIMEES
+
+GENRAL 
+https://www.decentralizedweb.net/
+https://twitter.com/genekogan/status/1022496095111442432
+
+https://youtu.be/SqayDnQ2wmw
+
+https://glitchartbyjoriswegner.tumblr.com/
+https://lamexv.tumblr.com/
+https://ayumu-nagamatsu.com/
+https://www.bonnegueule.fr/histoires-extraordinaires-hommes-style-hypebeast/
+https://youtu.be/GB46JMEcgqY
+http://www.karlklomp.nl/index.html
+https://motherboard.vice.com/fr/article/wjk95n/pourquoi-les-logos-des-logiciels-libres-et-open-source-sont-ils-si-moches
+https://pbs.twimg.com/media/DmaLhWxXsAAQlD9.jpg
+http://lenuscati.tumblr.com/?og=1
+
+https://github.com/snorpey/jpg-glitch
+https://super-productivity.com/
+https://happyhours.io/
+
+https://happyhours.io/
+https://www.youtube.com/watch?v=Aba7VD4h6G4
+
+https://www.instagram.com/p/BjCz2hFhfEz/?utm_source=ig_share_sheet&igshid=vgsqbebvgboo
+
+https://www.flickr.com/photos/curlycode/
+
+https://youtu.be/MIcUW9QFMLE
+http://control--panel.com/
+
+http://getwrightonit.com/animation-price-guide/
+https://elevate.at/en/details/news/elevate-arts-residency-open-call-2019/
+https://www.dailymotion.com/video/x6vmphw
+
+https://vimeo.com/251490751
+
+CREATIVE CODING
+https://youtu.be/mMIHdtjvLhs
+https://rit-public.github.io/HappyDB/
+http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+
+DEV
+http://tonsky.me/blog/disenchantment/
+
+GAME DEV
+https://armory3d.org/index.html
+https://youtu.be/I6XDJr_lczE
+
+MIXTAPE
+https://www.mixcloud.com/V_A_R/dig-02/
+https://www.mixcloud.com/V_A_R/dig-03/
+
+MUSIQUE
+https://www.thefader.com/2018/09/07/amensia-scanner-interview
+
+RANDOM
+http://therkoi.com/
+
+SCENOGRAPHIE
+https://github.com/keijiro/Ngx/blob/master/README.md
+https://vimeo.com/288981563
+
+WEBDESIGN
+https://asciinema.org/
+http://v-os.ca/
+
+DIRECT MESSAGE
+https://youtu.be/UhTyPzl7NpM
+https://m.soundcloud.com/european-lab
+https://github.com/keijiro/TestbedHDRP
+https://www.malt.fr/
+https://youtu.be/O-1zEo7DD8w?t=3m19s
+https://www.newschoolers.com/forum/thread/825741/MASS-STICKER-LIST--EMAIL--100--COMPANIES
+
+
+COLLECT STOPPED 02/11/2018 On CONVERSATIONS ANIMEES
