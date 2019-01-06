@@ -272,3 +272,4 @@ https://youtu.be/ENa98h7M7qY
 https://hypebeast.com/fr/2018/8/red-hydrogen-one-photos-officielles
 
 
+## END OF 2018
