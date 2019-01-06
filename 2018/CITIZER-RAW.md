@@ -29,3 +29,6 @@ https://github.com/danistefanovic/build-your-own-x
 https://github.com/easy-tensorflow/easy-tensorflow
 https://youtu.be/GFVY5gmWPpw
 https://youtu.be/SqayDnQ2wmw
+
+
+## END OF 2018
