@@ -172,3 +172,14 @@ https://youtu.be/O-1zEo7DD8w?t=3m19s
 https://www.newschoolers.com/forum/thread/825741/MASS-STICKER-LIST--EMAIL--100--COMPANIES
 
 ## COLLECT STOPPED 02/11/2018 On CONVERSATIONS ANIMEES
+
+GENERAL
+http://cdm.link/2018/10/fake-a-30k-pro-video-controller-with-an-apc40-or-launchpad-and-davinci-resolve/
+https://youtu.be/qGhN4g2YjN4
+https://remingtongraphics.net/tools/procedural-4/
+
+UNITY
+https://github.com/teenageengineering/videolab
+
+
+##FINISHED FOR 2018
